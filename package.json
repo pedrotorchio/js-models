@@ -1,5 +1,5 @@
 {
-  "name": "js-models",
+  "name": "js-models-helper",
   "version": "1.0.0",
   "description": "A set of typescript / javascript classes to abstract data models",
   "main": "dist/index.js",
