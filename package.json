@@ -1,0 +1,31 @@
+{
+  "name": "js-models",
+  "version": "1.0.0",
+  "description": "A set of typescript / javascript classes to abstract data models",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrotorchio/js-models.git"
+  },
+  "keywords": [
+    "typescript",
+    "javascript",
+    "class",
+    "classes",
+    "model",
+    "image",
+    "tags"
+  ],
+  "author": "pedrotorchio <pedro@torchiodev.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrotorchio/js-models/issues"
+  },
+  "homepage": "https://github.com/pedrotorchio/js-models#readme",
+  "devDependencies": {
+    "typescript": "^3.0.1"
+  }
+}
